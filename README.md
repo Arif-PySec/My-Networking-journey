@@ -31,3 +31,12 @@
   - Understood how to read and trace a packet as it moves up and down the network stack.
 
 ---
+### 📅 2026-07-03
+- **Core Focus:** OSI Model Top Layers (Application, Presentation, Session, & Transport)
+- **Platform Used:** YouTube (NetworkChuck CCNA Episode 5)
+- **What I Mastered:** 
+  - Learned how streaming a YouTube video uses the upper OSI layers to request, translate, and manage data.
+  - Understood that Layer 7 (Application) uses HTTPS to request data, Layer 6 (Presentation) handles data compression and encryption, and Layer 5 (Session) keeps the communication channel open.
+  - Explored Layer 4 (Transport) where data is broken down into segments and prepared for delivery using protocols like TCP or QUIC for seamless streaming.
+
+---
