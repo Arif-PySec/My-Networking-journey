@@ -40,3 +40,12 @@
   - Explored Layer 4 (Transport) where data is broken down into segments and prepared for delivery using protocols like TCP or QUIC for seamless streaming.
 
 ---
+### 📅 2026-07-04
+- **Core Focus:** Network Design Topologies (2-Tier, 3-Tier, & Layer 3 Switching)
+- **Platform Used:** YouTube (NetworkChuck CCNA)
+- **What I Mastered:** 
+  - Learned the 3-Tier Network Design: Access Layer (connecting end devices), Distribution Layer (handling routing policies and security), and Core Layer (high-speed network backbone).
+  - Understood the 2-Tier (Collapsed Core) Design, which merges the Core and Distribution layers to save cost and complexity in smaller environments.
+  - Explored Multilayer Switches (Layer 3 Switches) and learned how they blend switching capabilities with routing functions to move traffic between subnets faster.
+
+---
