@@ -49,3 +49,11 @@
   - Explored Multilayer Switches (Layer 3 Switches) and learned how they blend switching capabilities with routing functions to move traffic between subnets faster.
 
 ---
+### 📅 2026-07-05
+- **Core Focus:** Data Center Architecture (Leaf-Spine vs. 3-Tier Design)
+- **Platform Used:** CCNA Class & Practical Concepts
+- **What I Mastered:** - Learned the difference between North-South traffic (user-to-internet) and East-West traffic (server-to-server inside a data center).
+  - Understood why the traditional 3-tier campus design causes bottlenecks and latency for server-to-server traffic due to data loops and Spanning Tree Protocol (STP).
+  - Mastered the Leaf-Spine Architecture: A flat, two-layer topology where every server is exactly two hops away from another, allowing predictable low-latency, full link utilization (ECMP), and massive scalability.
+
+---
