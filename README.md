@@ -57,3 +57,12 @@
   - Mastered the Leaf-Spine Architecture: A flat, two-layer topology where every server is exactly two hops away from another, allowing predictable low-latency, full link utilization (ECMP), and massive scalability.
 
 ---
+### 📅 2026-07-07
+- **Core Focus:** WAN Connectivity & Traffic Optimization (MPLS, VPN, QoS)
+- **Platform Used:** CCNA Class & Practical Concepts
+- **What I Mastered:** - Learned enterprise WAN technologies: Dedicated Leased Lines, high-speed Label-switching (MPLS), localized Metro Ethernet (M-Eth), and legacy cell-based ATM networks.
+  - Understood how VPNs provide a cost-effective way to tunnel encrypted corporate data securely over the public internet.
+  - Explored QoS (Quality of Service) and how it prioritizes time-sensitive voice/video traffic over standard data to prevent network congestion.
+  - Nailed the daily quiz options with significantly improved accuracy!
+
+---
