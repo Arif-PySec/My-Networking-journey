@@ -1,4 +1,4 @@
-# My-Cloud-SOC-journey
+# My-Networking-journey
 ### 📅 2026-06-24
 - **Core Focus:** Network Basics & Cisco iOS Commands
 - **Platform Used:** YouTube (NetworkChuck CCNA) & Terminal Simulation
