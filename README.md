@@ -66,3 +66,11 @@
   - Nailed the daily quiz options with significantly improved accuracy!
 
 ---
+### 📅 2026-07-08
+- **Core Focus:** Home Network Hardening, Nmap Recon, & External Port Scanning
+- **Platform Used:** CCNA / Hands-on Lab & Pentest-tools.com
+- **What I Mastered:** - Explored home router security configurations to prevent unauthorized access and exposure.
+  - Practiced Nmap reconnaissance commands: `-sT` (TCP Connect scan), `-O` (OS fingerprinting), `-p` (targeting specific ports), and `--script vuln` (automating vulnerability detection).
+  - Used external port scanning tools (Pentest-tools.com) to audit perimeter exposure on my public IP address.
+
+---
