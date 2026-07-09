@@ -74,3 +74,13 @@
   - Used external port scanning tools (Pentest-tools.com) to audit perimeter exposure on my public IP address.
 
 ---
+### 📅 2026-07-09
+- **Core Focus:** Hybrid Cloud Architecture Concepts
+- **Platform Used:** CCNA / Networking Class
+- **What I Mastered:** - Understood the architecture of Hybrid Cloud environments connecting private data centers with public cloud infrastructure (AWS/Azure).
+  - Learned the trade-offs between private cloud control/compliance and public cloud scalability.
+  - Explored how organizations leverage hybrid models to balance security, performance, and operational costs.
+
+---
+
+
