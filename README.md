@@ -83,4 +83,15 @@
 
 ---
 
+### 📅 2026-07-10
+- **Core Focus:** Power over Ethernet (PoE, PoE+, PoE++) Architecture
+- **Platform Used:** CCNA Class & Hardware Foundations
+- **What I Mastered:** - Learned how Ethernet cables can simultaneously transmit data and DC electrical power to endpoints, eliminating the need for separate power supplies.
+  - Mastered the PoE standards hierarchy: 
+    - Standard PoE (802.3af up to 15.4W) for simple devices like IP phones.
+    - PoE+ (802.3at up to 30W) for motorized PTZ cameras and advanced WAPs.
+    - PoE++ (802.3bt up to 60W/100W) for heavy-duty hardware like laptops and smart displays.
+  - Understood the concept of power delivery vs. power received due to line dissipation over copper links.
+
+---
 
