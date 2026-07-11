@@ -95,3 +95,12 @@
 
 ---
 
+### 📅 2026-07-11
+- **Core Focus:** Fiber Optic Infrastructure (Single-Mode, Multi-Mode, Layers & Connectors)
+- **Platform Used:** CCNA Class & Hardware Foundations
+- **What I Mastered:** 
+  - Learned why Fiber Optics outperform copper Ethernet: immune to Electromagnetic Interference (EMI), superior security against physical taps, and capable of long-distance transmission without signal loss.
+  - Mastered Single-Mode Fiber (SMF) vs. Multi-Mode Fiber (MMF): SMF uses lasers for long-haul WAN links, while MMF uses LEDs for short-distance, high-bandwidth data center connections.
+  - Explored the protective layers of fiber cables (Core, Cladding, Buffer, Kevlar, Jacket) and identified primary connector types (LC, SC, ST).
+
+---
