@@ -104,3 +104,15 @@
   - Explored the protective layers of fiber cables (Core, Cladding, Buffer, Kevlar, Jacket) and identified primary connector types (LC, SC, ST).
 
 ---
+### 📅 2026-07-12
+- **Core Focus:** IP Addressing, Subnet Foundations, & Default Gateways
+- **Platform Used:** CCNA Class & Practical Networking
+- **What I Mastered:** 
+  - Learned the structure of an IPv4 address, dividing the address into Network ID and Host ID.
+  - Explored the role of the Default Gateway as the exit node for traffic leaving the local subnet.
+  - Understood the subnet address pool math for a standard /24 network:
+    - 256 Total Addresses (0 to 255).
+    - 2 Reserved IPs: Network Address (.0) and Broadcast Address (.255).
+    - 254 Usable Host IPs (1 to 254) for endpoints and gateway interfaces.
+
+---
