@@ -116,3 +116,13 @@
     - 254 Usable Host IPs (1 to 254) for endpoints and gateway interfaces.
 
 ---
+### 📅 2026-07-13
+- **Core Focus:** Public vs. Private IPs, NAT, RFC 1918, & IPv6 Introduction
+- **Platform Used:** CCNA Class & Practical Networking
+- **What I Mastered:** 
+  - Learned the difference between Public IPs (globally routable) and Private IPs (internal use defined by RFC 1918).
+  - Memorized the RFC 1918 Private IP ranges (10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16).
+  - Understood how NAT (Network Address Translation) translates multiple internal private IPs into a single public IP to save IPv4 address space.
+  - Explored the fundamental differences between 32-bit IPv4 addresses and 128-bit IPv6 hexadecimal addresses.
+
+---
