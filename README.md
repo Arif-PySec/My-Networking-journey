@@ -135,3 +135,12 @@
   - Prepared foundational bitwise math required for variable length subnet masking (VLSM) and CIDR notation.
 
 ---
+### 📅 2026-07-15
+- **Core Focus:** Demystifying Subnet Masks & Borrowing Bits
+- **Platform Used:** CCNA / NetworkChuck Subnetting Series
+- **What I Mastered:** 
+  - Understood that a Subnet Mask isolates the Network ID (street) from the Host ID (house number) using binary 1s as a boundary marker.
+  - Learned CIDR notation (/24, /25, etc.) and how it represents the total number of masked network bits.
+  - Demystified "borrowing bits": converting host bits (0s) into network bits (1s) to carve a single larger network into multiple smaller, isolated subnets ($2^n$ subnets created).
+
+---
