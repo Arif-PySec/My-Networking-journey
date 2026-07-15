@@ -126,3 +126,12 @@
   - Explored the fundamental differences between 32-bit IPv4 addresses and 128-bit IPv6 hexadecimal addresses.
 
 ---
+### 📅 2026-07-15
+- **Core Focus:** Binary and Decimal Conversions for Subnetting
+- **Platform Used:** CCNA Class & Practical Exercises
+- **What I Mastered:** 
+  - Reviewed 8-bit binary positional values (128, 64, 32, 16, 8, 4, 2, 1) and their role in IPv4 octet construction.
+  - Re-verified quick decimal-to-binary and binary-to-decimal mental conversions.
+  - Prepared foundational bitwise math required for variable length subnet masking (VLSM) and CIDR notation.
+
+---
