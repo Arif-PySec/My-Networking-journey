@@ -144,3 +144,12 @@
   - Demystified "borrowing bits": converting host bits (0s) into network bits (1s) to carve a single larger network into multiple smaller, isolated subnets ($2^n$ subnets created).
 
 ---
+### 📅 2026-07-16
+- **Core Focus:** Practical Subnetting & Home Network Segmentation
+- **Platform Used:** NetworkChuck Subnetting Series (Episode 4)
+- **What I Mastered:** 
+  - Fully mastered slicing a single parent network into multiple isolated subnets by borrowing bits from the host portion.
+  - Applied key formulas to calculate subnet yields ($2^n$ where $n$ = borrowed bits) and usable host pools ($2^h - 2$ where $h$ = remaining host bits).
+  - Practice-designed segmented networks using custom CIDR prefixes (/25, /26, /27) and identified block sizes, network IDs, and broadcast boundaries for each subnet.
+
+---
