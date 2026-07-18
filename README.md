@@ -153,3 +153,13 @@
   - Practice-designed segmented networks using custom CIDR prefixes (/25, /26, /27) and identified block sizes, network IDs, and broadcast boundaries for each subnet.
 
 ---
+
+### 📅 2026-07-18
+- **Core Focus:** Host-Based Subnetting & Variable Length Subnet Masking (VLSM)
+- **Platform Used:** CCNA / NetworkChuck Subnetting Series
+- **What I Mastered:** 
+  - Learned how to design subnets by reversing the math to target specific host requirements ($2^h - 2 \geq$ required hosts).
+  - Mastered the core logic of Variable Length Subnet Masking (VLSM) to maximize IP address conservation across different sized network segments.
+  - Practiced allocating custom CIDR prefixes (/26, /28, /30) to align precisely with department host sizes while minimizing waste.
+
+---
