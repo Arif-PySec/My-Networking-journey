@@ -163,3 +163,14 @@
   - Practiced allocating custom CIDR prefixes (/26, /28, /30) to align precisely with department host sizes while minimizing waste.
 
 ---
+
+### 📅 2026-07-19
+- **Core Focus:** Subnetting Series Completion & Final Mastery
+- **Platform Used:** NetworkChuck Subnetting Series (Completed!)
+- **What I Mastered:** 
+  - Successfully completed the entire foundational subnetting curriculum.
+  - Solidified full command over binary/decimal conversions, network bit allocation ($2^n$), and host requirement planning ($2^h - 2$).
+  - Developed the skills to architect optimized, zero-waste network infrastructures using Variable Length Subnet Masking (VLSM).
+  - **Status:** Officially immune to getting tripped up by subnet masks, CIDR prefixes, or boundary math again!
+
+---
