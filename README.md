@@ -1,4 +1,9 @@
-# My-Networking-journey
+# 🚀 My Networking & Security Journey
+
+## 📁 Phase 1: Networking Fundamentals
+
+### 📅 Daily Logs
+
 ### 📅 2026-06-24
 - **Core Focus:** Network Basics & Cisco iOS Commands
 - **Platform Used:** YouTube (NetworkChuck CCNA) & Terminal Simulation
@@ -174,3 +179,8 @@
   - **Status:** Officially immune to getting tripped up by subnet masks, CIDR prefixes, or boundary math again!
 
 ---
+## 📁 Phase 2: Ethical Hacking & Penetration Testing (IN PROGRESS)
+- **Course:** Ethical Hacking in 15 Hours
+- **Goal:** Master Reconnaissance, OSINT, Exploitation, and Active Directory
+
+### 📅 Daily Logs
