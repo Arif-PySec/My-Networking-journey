@@ -185,3 +185,14 @@
 - **Goal:** Master Reconnaissance, OSINT, Exploitation, and Active Directory
 
 ### 📅 Daily Logs
+
+### 📅 2026-07-20
+- **Core Focus:** Phase 2 Kickoff & Foundations (Modules 1 & 2)
+- **Course Platform:** MindLuster - Ethical Hacking in 15 Hours
+- **Progress:** Completed 2 Hours 33 Minutes
+- **Key Takeaways & Hands-on:**
+  - Initiated Phase 2 of the cybersecurity journey focusing on offensive security methodologies.
+  - Built foundational context around ethical hacking frameworks, scope of work, and lab environment preparation.
+  - Set the baseline for upcoming hands-on recon, scanning, and command-line execution.
+
+---
