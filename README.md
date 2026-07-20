@@ -179,7 +179,7 @@
   - **Status:** Officially immune to getting tripped up by subnet masks, CIDR prefixes, or boundary math again!
 
 ---
-Ethical-Hacking/README.md
+
 ## 📁 Phase 2: Ethical Hacking & Penetration Testing
 - **Course:** Ethical Hacking in 15 Hours
 - **Goal:** Master Reconnaissance, OSINT, Exploitation, and Active Directory
