@@ -196,3 +196,14 @@
   - Set the baseline for upcoming hands-on recon, scanning, and command-line execution.
 
 ---
+### 📅 2026-07-22
+- **Core Focus:** Linux CLI Mastery, Bash Intro, Python Basics & Building a Custom Port Scanner
+- **Course Platform:** MindLuster - Ethical Hacking in 15 Hours
+- **Progress:** Completed 5 Hours 41 Minutes
+- **Key Takeaways & Hands-on:**
+  - **Linux Mastery:** Practiced core Linux terminal commands, file system navigation, permissions (`chmod`/`chown`), and process management.
+  - **Bash Scripting:** Wrote initial Bash scripts to automate simple terminal tasks.
+  - **Python Fundamentals:** Reviewed Python programming basics (variables, loops, conditional logic, and socket operations).
+  - **Project Built:** Developed a functional multi-port scanner in Python using `socket` programming to check open TCP ports on a target host.
+
+---
