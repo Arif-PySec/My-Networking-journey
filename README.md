@@ -207,3 +207,14 @@
   - **Project Built:** Developed a functional multi-port scanner in Python using `socket` programming to check open TCP ports on a target host.
 
 ---
+### 📅 2026-07-24
+- **Core Focus:** Part 1 Completion — Offensive Security Foundations & Tooling
+- **Course Platform:** MindLuster - Ethical Hacking in 15 Hours (Part 1 Done!)
+- **Progress:** Completed 7 Hours Total
+- **Key Takeaways & Hands-on:**
+  - Officially completed Part 1 (7+ hours) of the MindLuster Ethical Hacking curriculum.
+  - Consolidated hands-on fluency in Linux terminal operations, Bash scripting, and custom Python security tool development.
+  - Applied core networking fundamentals (IPs, ports, sockets) to offensive reconnaissance and active host scanning methodologies.
+  - Prepared lab environment and mindset for advanced Part 2 topics (OSINT, Exploitation, & Active Directory).
+
+---
